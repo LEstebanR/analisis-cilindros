@@ -5,6 +5,7 @@ export default {
     extend: {
       colors: {
         primary: "#277589",
+        primary_hover: "#1F5F73",
         secondary: "#D2DE32", // Emerald 200
         typography: "#171717",
         "light-text": "#171717",

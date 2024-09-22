@@ -6,7 +6,7 @@ import Link from "./link";
 
 const Footer: React.FC = () => {
   return (
-    <footer className="my-8 w-full">
+    <footer className="my-8 w-full border-t p-4">
       <div className="z-10 flex flex-wrap  items-center justify-center gap-x-1 gap-y-3 sm:gap-x-2 ">
         <Link
           href="https://github.com/LEstebanR/lesteban"
